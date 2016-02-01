@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AlertWire]]></title>
         <description><![CDATA[AlertWire]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alertwire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 22:05:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 22:10:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alertwire/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AlertWire - Some Messages Can't Wait]]></title>
+            <description><![CDATA[<article><h1>AlertWire - Some Messages Can't Wait</h1><p>AlertWire is the best way to get your urgent message across on all your websites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1083e3fae9e6c7917a17c12125f7b9b3ca133085.png"></article>]]></description>
+            <link>http://alertwire.com/</link>
+            <guid isPermaLink="false">c038c054-13f3-4710-9d56-c43f575dd7a6</guid>
+            <pubDate>Mon, 01 Feb 2016 22:10:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Fast. Smart. Robust.</p>]]></description>
-            <link>undefined9b8079c5-af4f-45a8-ba4f-4fe58060d0ce/index.html</link>
+            <link>https://thegrid.ai/alertwire/9b8079c5-af4f-45a8-ba4f-4fe58060d0ce/index.html</link>
             <guid isPermaLink="false">9b8079c5-af4f-45a8-ba4f-4fe58060d0ce</guid>
             <pubDate>Mon, 01 Feb 2016 22:05:55 GMT</pubDate>
         </item>
