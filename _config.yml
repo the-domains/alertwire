@@ -1,0 +1,28 @@
+name: AlertWire
+favicon: null
+layout_spectrum: 0.5190321828704327
+typography_spectrum: 0.31277741002850235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.47604811005294323
+  lightness: 0.8337698436807841
+  saturation: 0.346856695599854
+  rhythmicContrast: 0.1774722719565034
+purpose: []
